@@ -1,0 +1,17 @@
+body {
+ background-color:pink;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:6px;
+  border-width:5%;
+}
+  h1{
+    color:#66BFBF;
+  }
+ h3{
+   color:purple;
+ }
